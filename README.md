@@ -1,2 +1,2 @@
-# Taipower
-EHV project
+# Funny things
+Dice project
